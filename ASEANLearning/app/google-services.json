@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "112554861105",
+    "project_id": "aseanlearning-b64a7",
+    "storage_bucket": "aseanlearning-b64a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112554861105:android:1e1607738098e6c1b32b10",
+        "android_client_info": {
+          "package_name": "com.example.aseanlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112554861105-hq7ebki19cf4asl1q4kmplu7ptggd3i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aseanlearning",
+            "certificate_hash": "c791325ee58a962eb37ee2178e38376038a64062"
+          }
+        },
+        {
+          "client_id": "112554861105-n7d74mbmg80ofrdqq151tle0tolqst3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiF1HQn-WXc0lxbtSH2cyYZMWLWjNbbWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112554861105-n7d74mbmg80ofrdqq151tle0tolqst3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

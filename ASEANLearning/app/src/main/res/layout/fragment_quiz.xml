@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    tools:context=".QuizFragment">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv1"
+        android:layout_width="349dp"
+        android:layout_height="55dp"
+        app:cardBackgroundColor="#fff"
+        app:cardCornerRadius="5dp"
+        app:contentPaddingBottom="15dp"
+        app:contentPaddingLeft="20dp"
+        app:contentPaddingTop="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.045">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="INDONESIA"
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv2"
+        android:layout_width="349dp"
+        android:layout_height="55dp"
+        app:cardBackgroundColor="#fff"
+        app:cardCornerRadius="5dp"
+        app:contentPaddingBottom="15dp"
+        app:contentPaddingLeft="20dp"
+        app:contentPaddingTop="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.146">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="MALAYSIA"
+            android:textColor="@color/black" />
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv3"
+        android:layout_width="349dp"
+        android:layout_height="55dp"
+        app:cardBackgroundColor="#fff"
+        app:cardCornerRadius="5dp"
+        app:contentPaddingBottom="15dp"
+        app:contentPaddingLeft="20dp"
+        app:contentPaddingTop="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.247">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="SINGAPURA"
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv4"
+        android:layout_width="349dp"
+        android:layout_height="55dp"
+        app:cardBackgroundColor="#fff"
+        app:cardCornerRadius="5dp"
+        app:contentPaddingBottom="15dp"
+        app:contentPaddingLeft="20dp"
+        app:contentPaddingTop="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.347">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="KAMBOJA"
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv5"
+        android:layout_width="349dp"
+        android:layout_height="55dp"
+        app:cardBackgroundColor="#fff"
+        app:cardCornerRadius="5dp"
+        app:contentPaddingBottom="15dp"
+        app:contentPaddingLeft="20dp"
+        app:contentPaddingTop="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.448">
+
+        <TextView
+            android:id="@+id/namaa"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="BRUNEI DARUSSALAM"
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv6"
+        android:layout_width="349dp"
+        android:layout_height="55dp"
+        app:cardBackgroundColor="#fff"
+        app:cardCornerRadius="5dp"
+        app:contentPaddingBottom="15dp"
+        app:contentPaddingLeft="20dp"
+        app:contentPaddingTop="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.548">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="THAILAND"
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv7"
+        android:layout_width="349dp"
+        android:layout_height="55dp"
+        app:cardBackgroundColor="#fff"
+        app:cardCornerRadius="5dp"
+        app:contentPaddingBottom="15dp"
+        app:contentPaddingLeft="20dp"
+        app:contentPaddingTop="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.649">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="FILIPINA"
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv8"
+        android:layout_width="349dp"
+        android:layout_height="55dp"
+        app:cardBackgroundColor="#fff"
+        app:cardCornerRadius="5dp"
+        app:contentPaddingBottom="15dp"
+        app:contentPaddingLeft="20dp"
+        app:contentPaddingTop="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.747">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="VIETNAM"
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv9"
+        android:layout_width="349dp"
+        android:layout_height="55dp"
+        app:cardBackgroundColor="#fff"
+        app:cardCornerRadius="5dp"
+        app:contentPaddingBottom="15dp"
+        app:contentPaddingLeft="20dp"
+        app:contentPaddingTop="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.846">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="LAOS"
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv10"
+        android:layout_width="349dp"
+        android:layout_height="55dp"
+        app:cardBackgroundColor="#fff"
+        app:cardCornerRadius="5dp"
+        app:contentPaddingBottom="15dp"
+        app:contentPaddingLeft="20dp"
+        app:contentPaddingTop="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.946">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="MYANMAR"
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

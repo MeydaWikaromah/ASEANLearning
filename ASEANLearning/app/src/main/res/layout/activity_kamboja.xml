@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:background="@drawable/bgk2"
+    tools:context=".KambojaActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="KAMBOJA"
+                android:textColor="@color/black"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/kambojapt" />
+
+            <TextView
+                android:id="@+id/text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:text="loading..."
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:justificationMode="inter_word"/>
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:text="..."
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:justificationMode="inter_word"/>
+
+            <TextView
+                android:id="@+id/text3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:text="..."
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:justificationMode="inter_word"/>
+
+            <TextView
+                android:id="@+id/text4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:text="..."
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:justificationMode="inter_word"/>
+
+            <TextView
+                android:id="@+id/text5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:text="..."
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:justificationMode="inter_word"/>
+
+            <TextView
+                android:id="@+id/text6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:text="..."
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:justificationMode="inter_word"/>
+
+            <Button
+                android:id="@+id/PilGan7"
+                android:layout_width="130sp"
+                android:layout_height="50sp"
+                android:layout_marginTop="50dp"
+                android:text="Jawab Kuis" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

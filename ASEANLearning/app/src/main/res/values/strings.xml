@@ -1,0 +1,225 @@
+<resources>
+    <string name="app_name">ASEANLearning</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about">ASEAN Learning adalah media pembelajaran interaktif berbasis aplikasi android dengan tema “Mengenal Negara-negara ASEAN”. Aplikasi ini memuat materi tentang sejarah dan kebudayaan negara-negara yang menjadi anggota ASEAN. Adapun tujuan aplikasi ini untuk mempromosikan dan meningkatkan kesadaran tentang negara-negara anggota ASEAN atau Association of Southeast Asian Nations. Aplikasi ini dirancang untuk memberikan informasi tentang setiap negara anggota ASEAN, termasuk sejarah, geografi, populasi, pemerintahan, dan bahasa resmi.</string>
+
+    <string name="indo">
+        <p>
+            Negara Indonesia adalah sebuah negara kepulauan di Asia Tenggara yang terletak antara benua Asia dan Australia serta antara Samudra Pasifik dan Samudra Hindia. Negara Indonesia memiliki luas wilayah 1.904.569 km² dan terdiri dari ribuan pulau, di mana lima pulau terbesar di antaranya adalah Jawa, Sumatera, Kalimantan, Sulawesi, dan Papua.\n \n
+        </p>
+        <p>
+            Negara Indonesia memiliki populasi lebih dari 270 juta orang yang terdiri dari beragam etnis, bahasa, agama, dan budaya. Bahasa resmi negara Indonesia adalah Bahasa Indonesia, namun terdapat lebih dari 700 bahasa daerah yang digunakan di seluruh wilayah negara.\n \n
+        </p>
+        <p>
+            Negara Indonesia adalah negara demokrasi dengan sistem pemerintahan presidensial. Presiden Indonesia adalah kepala negara dan kepala pemerintahan yang dipilih secara langsung oleh rakyat melalui pemilihan umum. Negara Indonesia terdiri dari 34 provinsi yang masing-masing memiliki pemerintahan sendiri dan dipimpin oleh gubernur.\n \n
+        </p>
+        <p>
+            Negara Indonesia memiliki sumber daya alam yang melimpah seperti minyak, gas alam, batu bara, dan bijih tambang lainnya. Negara Indonesia juga dikenal dengan kekayaan alamnya seperti hutan tropis, gunung berapi, pantai indah, dan terumbu karang yang menakjubkan. Negara Indonesia adalah anggota Perserikatan Bangsa-Bangsa (PBB), G20, dan ASEAN (Association of Southeast Asian Nations).\n \n
+        </p>
+        <p>
+            Budaya Indonesia sangat kaya dan beragam, dengan pengaruh Hindu, Budha, Islam, dan Barat yang mempengaruhi kebudayaan negara tersebut. Seni, musik, tari, dan kerajinan tangan Indonesia juga sangat terkenal di seluruh dunia.\n \n
+        </p>
+        <p>
+            Negara Indonesia memiliki ekonomi yang berkembang pesat dalam beberapa dekade terakhir dan merupakan salah satu ekonomi terbesar di Asia. Sektor ekonomi terbesar di negara Indonesia adalah industri manufaktur, pertanian, dan pariwisata. Namun, negara Indonesia juga menghadapi berbagai tantangan seperti kemiskinan, kesenjangan sosial, dan masalah lingkungan seperti deforestasi dan polusi.
+        </p>
+
+    </string>
+
+    <string name="malayteks">
+        <p>
+            Malaysia adalah sebuah negara di Asia Tenggara yang terdiri dari dua wilayah utama yaitu Semenanjung Malaysia dan Sabah dan Sarawak di bagian utara Pulau Borneo. Malaysia memiliki luas wilayah sekitar 330.000 kilometer persegi dan memiliki jumlah penduduk sekitar 32 juta jiwa.\n \n
+        </p>
+        <p>
+            Ibukota Malaysia adalah Kuala Lumpur, sementara Putrajaya merupakan pusat pemerintahan federal. Malaysia memiliki sistem pemerintahan yang berbentuk monarki konstitusional, di mana kepala negara adalah Yang di-Pertuan Agong (raja) yang dipilih setiap lima tahun oleh sembilan raja Melayu tradisional.\n \n
+        </p>
+        <p>
+            Semboyan negara Malaysia adalah "Bersekutu Bertambah Mutu", yang artinya "Bersatu Tambah Baik". Semboyan ini menekankan pentingnya persatuan dan kerjasama di antara semua rakyat Malaysia, tanpa memandang latar belakang etnis, agama, dan kepercayaan. Semboyan ini juga menggambarkan semangat Malaysia untuk terus meningkatkan kemajuan dan keberhasilan negara dengan memperkuat persatuan dan kesatuan di antara rakyatnya.\n \n
+        </p>
+        <p>
+            Bahasa resmi Malaysia adalah Bahasa Melayu, tetapi bahasa-bahasa lain seperti Inggris, Cina, dan Tamil juga umum digunakan di negara ini. Malaysia adalah negara multikultural yang memiliki banyak etnis dan agama yang berbeda. Orang Melayu merupakan kelompok etnis terbesar di Malaysia, diikuti oleh etnis Cina dan India.\n \n
+        </p>
+        <p>
+            Ekonomi Malaysia terutama didasarkan pada industri manufaktur, keuangan, pariwisata, dan minyak sawit. Malaysia adalah salah satu produsen minyak kelapa sawit terbesar di dunia. Selain itu, negara ini juga memiliki sektor teknologi yang berkembang pesat.\n \n
+        </p>
+        <p>
+            Malaysia memiliki sistem pendidikan yang baik dan berkualitas, dengan universitas-universitas terkemuka seperti Universiti Malaya, Universiti Sains Malaysia, dan Universiti Teknologi Malaysia. Selain itu, Malaysia juga memiliki banyak tempat wisata yang menarik seperti Petronas Twin Towers, Pulau Langkawi, dan Taman Negara. Secara keseluruhan, Malaysia adalah negara yang kaya akan keanekaragaman budaya, sejarah, dan keindahan alam.
+        </p>
+    </string>
+
+    <string name="singapurateks">
+        <p>
+            Singapura adalah sebuah negara pulau yang terletak di Asia Tenggara, tepatnya di ujung selatan Semenanjung Malaysia. Negara ini memiliki luas wilayah sekitar 728,3 km persegi dan memiliki populasi sekitar 5,7 juta orang. Singapura terdiri dari sebuah pulau utama dan beberapa pulau kecil di sekitarnya.\n \n
+        </p>
+        <p>
+            Negara Singapura didirikan pada tahun 1965 setelah memperoleh kemerdekaannya dari Malaysia. Sejak saat itu, negara ini telah berkembang menjadi sebuah pusat ekonomi dan bisnis yang penting di dunia, dengan ekonomi yang terdiversifikasi dan berbasis pada sektor jasa, manufaktur, dan perdagangan. Singapura juga dikenal sebagai salah satu negara terbersih dan paling teratur di dunia.\n \n
+        </p>
+        <p>
+            Sistem pemerintahan Singapura adalah sebuah negara republik dengan kepala negara yang dipilih oleh parlemen, yang disebut Presiden. Kekuasaan eksekutif dipegang oleh Perdana Menteri dan kabinetnya, yang dipilih oleh parlemen. Sistem politik Singapura dikenal sebagai satu-satunya negara yang dianggap sebagai negara otoriter dengan tatanan pemerintahan yang terbilang ketat.\n \n
+        </p>
+        <p>
+            Semboyan negara Singapura adalah "Majulah Singapura" yang artinya "Maju terus Singapura". Semboyan ini mencerminkan semangat dan tekad masyarakat Singapura untuk terus maju dan berkembang. Semboyan ini juga menjadi panduan bagi pemerintah dan warga Singapura untuk bekerja keras, bersatu, dan menghasilkan kemajuan bagi negara mereka.\n \n
+        </p>
+        <p>
+            Singapura memiliki pemerintahan yang stabil dan efisien dengan sistem politik yang unik. Negara ini diatur oleh Partai Tindakan Rakyat yang telah memimpin Singapura sejak kemerdekaannya pada tahun 1965. Singapura juga dikenal sebagai negara yang sangat disiplin dan memiliki aturan-aturan yang ketat, seperti pelarangan mengunyah permen karet dan membuang sampah sembarangan. Hal ini menjadi salah satu faktor penting dalam menjaga kebersihan dan ketertiban di negara tersebut.\n \n
+        </p>
+        <p>
+            Singapura juga dikenal sebagai negara yang multikultural dengan penduduk yang berasal dari berbagai etnis dan agama. Bahasa resmi negara ini adalah Bahasa Inggris, tetapi terdapat juga Bahasa Mandarin, Bahasa Melayu, dan Bahasa Tamil. Kebebasan beragama dan berbahasa di Singapura dijamin oleh konstitusi negara tersebut.\n \n
+        </p>
+        <p>
+            Singapura juga dikenal sebagai sebuah negara yang sangat maju dalam hal teknologi, pendidikan, dan kesehatan. Negara ini memiliki sistem kesehatan yang terkenal efisien dan memenuhi standar internasional. Singapura juga mempunyai universitas-universitas ternama seperti National University of Singapore dan Nanyang Technological University.
+        </p>
+    </string>
+
+    <string name="thaiteks">
+            <p>
+                Thailand atau yang secara resmi dikenal dengan Kerajaan Thailand adalah sebuah negara yang terletak di Asia Tenggara. Negara ini memiliki luas wilayah sekitar 513.120 kilometer persegi dan memiliki populasi sekitar 69 juta jiwa. Bangkok adalah ibu kota dan kota terbesar di Thailand.\n \n
+            </p>
+            <p>
+                Sejarah Thailand dapat ditelusuri kembali ke zaman prasejarah, tetapi bangsa-bangsa seperti Khmer, Mon, dan Burma memainkan peran penting dalam membentuk negara dan budaya Thailand seperti yang kita kenal hari ini. Thailand menjadi sebuah monarki konstitusional pada tahun 1932 dan sejak saat itu mengalami periode yang relatif stabil.\n \n
+            </p>
+            <p>
+                Thailand dikenal sebagai salah satu destinasi wisata terpopuler di dunia karena memiliki kekayaan budaya yang sangat beragam. Selain itu, negara ini juga terkenal dengan makanan yang lezat dan eksotis, pantai yang indah, dan berbagai kegiatan wisata lainnya.\n \n
+            </p>
+            <p>
+                Ekonomi Thailand didorong oleh industri manufaktur, pariwisata, dan pertanian. Negara ini merupakan produsen utama beras, karet, dan hasil laut, serta merupakan eksportir terbesar kedua di dunia untuk industri produk elektronik.\n \n
+            </p>
+            <p>
+                Pemerintahan Thailand saat ini dipimpin oleh Raja Maha Vajiralongkorn, yang memegang kekuasaan simbolis sebagai kepala negara. Namun, kekuasaan pemerintahan sehari-hari berada di tangan perdana menteri yang dipilih oleh parlemen.\n \n
+            </p>
+            <p>
+                Meskipun Thailand mengalami beberapa permasalahan politik dan sosial seperti konflik etnis dan politik yang terjadi di selatan negara, Thailand tetap menjadi negara yang relatif stabil dan memiliki tempat penting dalam politik dan ekonomi regional di Asia Tenggara.
+            </p>
+        </string>
+    <string name="viet">
+            <p>
+                Vietnam adalah sebuah negara di Asia Tenggara yang terletak di sebelah timur Laos dan Kamboja, dan di sebelah selatan Cina. Negara ini memiliki populasi sekitar 100 juta jiwa dan ibu kotanya adalah Hanoi.\n \n
+            </p>
+            <p>
+                Sejarah Vietnam telah gejolak dan penuh dengan perjuangan untuk kemerdekaan dan penyatuan. Sebelumnya, negara ini terbagi menjadi beberapa wilayah kecil dan sering dikuasai oleh negara-negara tetangga seperti Tiongkok dan Prancis. Setelah perang melawan Prancis dan Amerika Serikat, Vietnam berhasil bersatu menjadi sebuah negara komunis pada tahun 1976.\n \n
+            </p>
+            <p>
+                Vietnam memiliki ekonomi yang berkembang pesat dalam beberapa dekade terakhir, terutama dalam industri manufaktur dan ekspor. Negara ini juga memiliki potensi besar dalam sektor pariwisata dengan pemandangan alam yang indah dan sejarah yang kaya.\n \n
+            </p>
+            <p>
+                Bahasa resmi Vietnam adalah bahasa Vietnam, sementara agama mayoritas penduduknya adalah Buddhisme dan kepercayaan tradisional. Makanan Vietnam terkenal dengan kelezatan dan variasinya, seperti pho, banh mi, dan goi cuon.\n \n
+            </p>
+            <p>
+                Namun, seperti negara-negara lain, Vietnam juga menghadapi tantangan dan permasalahan, seperti kemiskinan, ketimpangan sosial, dan pelanggaran hak asasi manusia. Meski begitu, negara ini terus berusaha untuk mencapai kemajuan dan meningkatkan kualitas hidup rakyatnya.
+            </p>
+        </string>
+
+    <string name="bruneiteks">
+            <p>
+                Brunei Darussalam adalah sebuah negara kecil yang terletak di pesisir utara pulau Borneo di Asia Tenggara. Negara ini memiliki luas wilayah sekitar 5.765 km² dan memiliki populasi sekitar 460.000 jiwa berdasarkan data tahun 2021.\n \n
+            </p>
+            <p>
+                Brunei Darussalam adalah sebuah monarki absolut, dengan sultan sebagai kepala negara dan kepala pemerintahan. Negara ini memiliki sistem pemerintahan yang stabil dan efektif dengan sistem hukum berbasis syariah Islam sebagai landasan dasar pemerintahannya.\n \n
+            </p>
+            <p>
+                Secara sosial budaya, Brunei Darussalam merupakan negara yang konservatif dan berlandaskan nilai-nilai agama Islam. Mayoritas penduduknya adalah Muslim, dan ajaran Islam sangat mempengaruhi kehidupan sosial dan budaya di negara ini. Misalnya, di sini diterapkan hukum syariah dan pengaruh Islam dapat dilihat dalam berbagai aspek kehidupan, termasuk bahasa, pakaian, makanan, dan tradisi keagamaan.\n \n
+            </p>
+            <p>
+                Semboyan negara Brunei Darussalam adalah Selalu dalam pelayanan dengan petunjuk Tuhan. Semboyan ini mencerminkan nilai-nilai keagamaan yang dijunjung tinggi di negara ini, di mana setiap warga negara diharapkan selalu melayani Tuhan dan menjalankan ajaran agama Islam dalam setiap aspek kehidupan. Selain itu, semboyan ini juga menggambarkan tekad Brunei Darussalam untuk terus melayani dan memajukan negara, dengan tetap berpegang pada nilai-nilai keagamaan yang dijunjung tinggi.\n \n
+            </p>
+            <p>
+                Negara ini adalah produsen minyak bumi dan gas alam yang kaya, dan sebagian besar ekonominya bergantung pada sektor ini. Brunei Darussalam juga terkenal dengan sektor pariwisatanya yang berkembang dengan baik, dan memiliki beberapa tempat wisata yang menarik, termasuk Taman Nasional Ulu Temburong dan Masjid Omar Ali Saifuddien yang indah.\n \n
+            </p>
+            <p>
+                Bahasa resmi Negara Brunei Darussalam adalah bahasa Melayu, dan mayoritas penduduknya menganut agama Islam. Selain itu, Negara Brunei Darussalam juga memiliki hubungan diplomatik yang kuat dengan banyak negara lain di dunia, terutama negara-negara ASEAN dan negara-negara Islam.
+            </p>
+        </string>
+
+    <string name="laosteks">
+            <p>
+                Laos adalah sebuah negara di Asia Tenggara yang berbatasan dengan Thailand di sebelah barat, Myanmar di sebelah barat laut, Tiongkok di sebelah utara, Vietnam di sebelah timur, dan Kamboja di sebelah selatan. Ibukota negara ini adalah Vientiane.\n \n
+            </p>
+            <p>
+                Secara politik, Laos merupakan negara sosialis yang dipimpin oleh Partai Revolusioner Rakyat Laos. Negara ini memiliki sistem pemerintahan satu partai dan sejak tahun 1975, Partai Revolusioner Rakyat Laos menjadi partai tunggal yang memerintah negara ini.\n \n
+            </p>
+            <p>
+                Sosial budaya di Laos didominasi oleh kepercayaan agama Buddha Theravada, dimana sekitar 67% penduduknya memeluk agama tersebut. Namun, terdapat pula pengaruh agama animisme dan kepercayaan tradisional. Bahasa resmi di Laos adalah bahasa Laos, tetapi banyak pula penduduk yang dapat berbicara bahasa Thailand dan bahasa Vietnam.\n \n
+            </p>
+            <p>
+                Semboyan negara Laos adalah Damai, Kemerdekaan, Demokrasi, Persatuan dan Kemakmuran. Semboyan ini mencerminkan keinginan negara Laos untuk mencapai perdamaian, kemerdekaan, demokrasi, persatuan dan kemakmuran bagi rakyatnya. Negara ini juga memiliki lambang negara yang terdiri dari bulan sabit, bintang, dan gajah putih yang melambangkan keberanian dan kekuatan.\n \n
+            </p>
+            <p>
+                Perekonomian Laos masih tergolong sebagai negara berkembang dengan sektor pertanian sebagai sektor utama. Laos juga memiliki potensi sumber daya alam yang cukup besar seperti hutan, perkebunan, dan tambang. Selain itu, pariwisata juga menjadi sektor yang penting bagi Laos dengan keindahan alamnya yang menarik banyak wisatawan.\n \n
+            </p>
+            <p>
+                Budaya Laos juga kaya dan beragam dengan pengaruh dari berbagai etnis yang tinggal di negara ini. Bahasa resmi yang digunakan adalah bahasa Lao, namun terdapat juga beberapa bahasa minoritas seperti bahasa Khmu, Hmong, dan Phuan. Agama utama yang dianut di Laos adalah Buddha Theravada, namun terdapat juga beberapa kelompok kecil yang memeluk agama lain seperti Katolik dan Protestan.
+            </p>
+
+        </string>
+
+    <string name="myanmarteks">
+            <p>
+                Negara Myanmar, sebelumnya dikenal sebagai Burma, adalah negara yang terletak di Asia Tenggara dan berbatasan dengan Bangladesh, India, Cina, Laos, dan Thailand. Ibu kota Myanmar adalah Naypyidaw, tetapi kota terbesarnya adalah Yangon.\n \n
+            </p>
+            <p>
+                Myanmar memiliki sejarah panjang dan kaya. Pada abad ke-11, negara ini merupakan salah satu kerajaan Buddha terbesar di dunia, dan kemudian menjadi koloni Inggris pada abad ke-19 hingga kemerdekaannya pada 1948. Myanmar kemudian mengalami periode pemerintahan militer yang berlangsung selama beberapa dekade.\n \n
+            </p>
+            <p>
+                Myanmar memiliki banyak kelompok etnis, termasuk Bamar yang merupakan kelompok mayoritas, dan kelompok etnis minoritas seperti Karen, Kachin, Chin, Shan, dan Rohingya. Mereka sering mengalami konflik dengan pemerintah atau antar kelompok etnis.\n \n
+            </p>
+            <p>
+                Bahasa resmi Myanmar adalah bahasa Birma, tetapi ada juga bahasa-bahasa etnis lainnya yang diakui secara resmi. Mayoritas penduduk Myanmar mempraktikkan agama Buddha Theravada, meskipun ada juga pemeluk agama Kristen, Islam, dan Hindu.\n \n
+            </p>
+            <p>
+                Ekonomi Myanmar didominasi oleh sektor pertanian, termasuk produksi padi, tebu, jagung, kacang-kacangan, dan buah-buahan. Negara ini juga memiliki cadangan mineral yang signifikan, termasuk minyak, gas alam, tembaga, timah, dan berlian. Selama beberapa tahun terakhir, ekonomi Myanmar telah mengalami pertumbuhan yang pesat, meskipun masih menghadapi berbagai tantangan seperti korupsi, kemiskinan, dan konflik.\n \n
+            </p>
+            <p>
+                Namun, situasi politik dan keamanan Myanmar masih bergejolak, terutama setelah kudeta militer pada Februari 2021 yang menumbangkan pemerintahan terpilih secara demokratis dan memicu unjuk rasa besar-besaran serta serangan terhadap militer. Negara ini saat ini masih dalam keadaan darurat militer dan menghadapi tekanan internasional untuk mengembalikan demokrasi.
+            </p>
+        </string>
+
+    <string name="kambojateks">
+            <p>
+                Ibu kota negara Kamboja adalah Phnom Penh. Kamboja merupakan negara yang masuk menjadi anggota Association of Southeast Asian Nations atau Perhimpunan Bangsa-Bangsa Asia Tenggara atau ASEAN pada 30 April 1999.\n \n
+            </p>
+            <p>
+                Dilansir dari laman resmi negara Kamboja memiliki luas wilayah 181.035 km2. Dari luas tersebut Kamboja dibagi menjadi 25 Provinsi. Sementara bahasa nasional yang dipakai adalah Khmer. Adapun sebaran agama penduduknya terdiri dari 96,4% buddha Theravada, 2,1% Islam, 1,5 % lainnya.\n \n
+            </p>
+            <p>
+                Bentuk Pemerintahan negara Kamboja adalah Monarkhi Konstitusional di mana kepala negara dipimpin oleh raja dan kelapa pemerintahan dipimpin oleh perdana menteri. Berdasarkan ketentuan Undang Undang Dasar-nya, Kamboja adalah sebuah negara kerajaan monarki konstitusional dengan sistem trias politica.\n \n
+            </p>
+            <p>
+                Posisi Raja di negara Kamboja adalah kepala negara seumur hidup, panglima tertinggi tentara negara, lambang kesatuan dan keabadian negara. Setelah raja wafat, Komisi Takhta Kerajaan 9 Orang yang terdiri dari perdana menteri, pemimpin kedua faksi Buddhis, ketua dan wakil ketua Senat dan Majelis Nasional akan memilih raja baru dari keturunan raja. Secara geografis, Kamboja berbatasan dengan Thailand di barat dan utara, Laos di timur laut dan Vietnam di timur dan tenggara.\n \n
+            </p>
+            <p>
+                Kenampakan geografis yang menarik di Kamboja ialah adanya dataran lacustrine yang terbentuk akibat banjir di Tonle Sap. Gunung tertinggi di Kamboja adalah Gunung Phnom Aoral yang berketinggian sekitar 1.813 mdpl. Kamboja menjadi salah satu negara yang dilalui sungai terbesar di Asia Tenggara, Sungai Mekong.\n \n
+            </p>
+            <p>
+                Meskipun sebagian besar Kamboja berhutan lebat, wilayah dataran rendah tengah ditutupi oleh hamparan sawah, ladang tanaman kering seperti jagung dan tembakau, rerumputan tinggi dan alang-alang, serta daerah berhutan tipis. Mata pencaharian utama penduduk Kamboja adalah petani. Mereka mencari nafkah dari sektor pertanian, perikanan dan usaha kecil.\n \n
+            </p>
+            <p>
+                Hanya sebagian kecil dari total populasi yang pernah tinggal di kota yang berpenduduk lebih dari 10.000 jiwa. Selama musim tanam padi, semua anggota keluarga bekerja bersama di ladang. Pekerjaan menanam, memindahkan, dan memanen harus dilakukan dengan cepat. Petani tidak memiliki akses untuk menggunakan mesin pertanian.
+            </p>
+        </string>
+
+    <string name="filipteks">
+            <p>
+                Negara Filipina ini memiliki sistem presidensial yang mana kepala negara Filipina yaitu presiden ini memegang kepercayaan sebagai kepala negara sekaligus kepala pemerintahan. Sistem pemerintahan negara Filipina adalah sistem pemerintahan presidensial. Yang mana kepala negara Filipina ini memegang kepercayaan sebagai kepala negara sekaligus kepala pemerintahan.\n \n
+            </p>
+            <p>
+                Bentuk Pemerintahan Filipina, Iklim, dan Sumber Mata Pencaharian Penduduknya. Selain itu, negara Filipina ini berbentuk kesatuan, yakni negara yang merdeka dan berdaulat dengan satu pemerintahan pusat yang berkuasa dan mengatur seluruh daerah. Berikut adalah ciri-ciri negara kesatuan yang dimiliki Filipina:\n \n
+            </p>
+            <p>
+                Kedaulatan negara mencakup ke dalam dan keluar yang ditangani oleh pemerintah pusat. Negara memiliki hanya 1 Undang-Undang Dasar, 1 kepala negara, 1 dewan menteri, dan 1 Dewan Perwakilan Rakyat. Negara kesatuan hanya memiliki 1 kebijaksanaan yang menyangkut persoalan politik, ekonomi, sosial-budaya, serta pertahanan-keamanan.\n \n
+            </p>
+            <p>
+                Dikutip dari Buku Pintar Terlengkap Sistem-sistem Pemerintahan Sedunia oleh Radis Bastian, Filipina dijajah oleh dua negara kolonialis Barat, yaitu Spanyol dan Amerika Serikat sejak abad ke-16. Namun, ternyata sejak abad ke-8 Filipina sempat berada di bawah kekuasaan kerajaan Sriwijaya. Hal ini terdapat dalam peninggalan tertulis di lempeng tembaga di dekat Manila.\n \n
+            </p>
+            <p>
+                Spanyol menjajah wilayah Filipina pada tahun 1565-1821. Dan masa kekuasaan Spanyol berakhir pada 1988 saat Spanyol kalah dalam perang Spanyol-Amerika. Kekalahan itulah membuat Spanyol menyerahkan kekuasaannya atas Filipina ke AS. Sejak itulah Filipina dijajah oleh AS selama 48 tahun. Lalu Perang Dunia II pecah inilah membuat Filipina diambil oleh Jepang namun tak bertahan lama karena Filipina memperoleh kemerdekaan pada 4 Juli 1946.\n \n
+            </p>
+            <p>
+                Dalam pelaksanaan pemerintahannya, kepala negara Filipina yaitu presiden ini berfungsi sebagai kepala negara, kepala pemerintahan, dan panglima tertinggi angkatan bersenjata. Presiden yang terpilih dalam pemilu ini memiliki masa jabatan 6 tahun.\n \n
+            </p>
+            <p>
+                Selain itu, dalam menjalankan fungsi dan tugasnya sebagai kepala negara Filipina. Presiden akan dibantu oleh kabinet menteri. Dan ada senat dan dewan perwakilan yang menjadi bagian legislatif. Dan terdapat pengadilan tertinggi yang terdiri atas Ketua Mahkamah Agung dan 14 hakim asosiasi. Ketua Mahkamah Agung dan 14 hakim asosiasi ini ditunjuk oleh Presiden berdasarkan rekomendasi dari Dewan Yudisial.
+            </p>
+        </string>
+
+</resources>
